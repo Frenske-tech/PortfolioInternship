@@ -458,14 +458,10 @@ _\>\>_
 
 | **Risico** | **Activiteiten ter voorkoming opgenomen in plan** | **Uitwijkactiviteiten** |
 | --- | --- | --- |
-|
-1. Uitvallen stagebegeleider
- | Back-up stagebegeleider | N.v.t. |
-|
-1. Externe oplossing van het probleem
- | Zelf met oplossingen komen of eventueel een andere opdracht aanpakken. | Goede voortgang laten zien bij onderzoek/opdracht |
-| 3 Onduidelijke specificaties | Terug naar de basis gaan en de specificaties nagaan | Duidelijk communicatie, goed na vragen |
+|1. Uitvallen stagebegeleider| Back-up stagebegeleider | N.v.t. |
+|2. Externe oplossing van het probleem| Zelf met oplossingen komen of eventueel een andere opdracht aanpakken. | Goede voortgang laten zien bij onderzoek/opdracht |
+|3. Onduidelijke specificaties | Terug naar de basis gaan en de specificaties nagaan | Duidelijk communicatie, goed na vragen |
 
-# 5.Overig
+#  5.Overig
 
 _\<\< Beschrijf hier alles dat nog relevant is maar je niet ergens anders in het document kwijt kunt.\>\>_
