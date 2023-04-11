@@ -1,10 +1,10 @@
 # **Projectplan**
 
-## _ **Vertaal module** _
+## **Vertaal module** 
 
-## _Performation_
+## Performation
 
-_ **Weert** _
+**Weert** 
 
 \<\<_Het projectdocument schrijf je als overeenkomst tussen jou en je opdrachtgever. Hierin leg je afspraken vast betreffende de opdracht en laat je zien dat je begrijpt wat de vraag is van je opdrachtgever. Ook geef je aan hoe je de opdracht gaat aanpakken, waarom je daarvoor kiest en wat daarvan het eindresultaat is._
 
