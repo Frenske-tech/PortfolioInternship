@@ -22,7 +22,7 @@ De vertaalmodule opdracht is ontstaan omdat wanneer er simpele aanpassingen aan 
 # Beschrijving van het proces
 Ik heb deelgenomen aan het Hotflo scrum team binnen Performation, hier heb ik dus met de scrum methodiek gewerkt met sprints van 3 weken.
 
-##Hoofdvraag:
+## Hoofdvraag:
 Hoe kan ik een vertaal module maken die niet alleen gebruikt kan worden door development?
 
 Met gebruik van dot framework methodes heb ik de verschillende deelvragen beantwoord hierbij heb ik voornamelijk gebruik gemaakt van literatuur onderzoek, available product analysis en waar nodig heb ik ook expert interview toegepast doormiddel van collega's vragen.
