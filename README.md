@@ -12,3 +12,12 @@ producten/snippits van code voor mijn project en ook tickets waar ik binnen het 
 
 -Professioneel:
 burn down charts, task boards  en algemene professionele ontwikkeling
+
+
+# De opdracht
+
+# Beschrijving van het proces
+
+# Conclusie en advies
+
+# Persoonlijke reflectie
