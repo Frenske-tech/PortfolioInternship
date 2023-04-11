@@ -16,6 +16,8 @@ burn down charts, task boards  en algemene professionele ontwikkeling
 
 # De opdracht
 
+De vertaalmodule opdracht is ontstaan omdat wanneer er simpele aanpassingen aan een vertaling gemaakt moeten worden dit gedaan moet worden door de developers die betere dingen te doen hebben, dit is het doel van de vertaalmodule om de vertalingen en teksten aanpasbaar te kunnen maken voor gebruikers buiten development(niet klanten zelf) maar medewerkers binnen productie capaciteit. 
+
 # Beschrijving van het proces
 
 # Conclusie en advies
