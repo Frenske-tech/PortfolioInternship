@@ -17,7 +17,7 @@ burn down charts, task boards  en algemene professionele ontwikkeling
 # De opdracht
 
 Een kleine samenvatting van de opdracht is om het mogelijk te maken de vertalingen/teksten van meerdere applicaties te beheren op 1 plek.
-De vertaalmodule opdracht is ontstaan omdat wanneer er simpele aanpassingen aan een vertaling gemaakt moeten worden dit gedaan moet worden door de developers die betere dingen te doen hebben, dit is het doel van de vertaalmodule om de vertalingen en teksten aanpasbaar te kunnen maken voor gebruikers buiten development(niet klanten zelf) maar medewerkers binnen productie capaciteit. 
+De vertaalmodule opdracht is ontstaan omdat wanneer er simpele aanpassingen aan een vertaling gemaakt moeten worden dit gedaan moet worden door de developers die betere dingen te doen hebben, dit is het doel van de vertaalmodule om de vertalingen en teksten aanpasbaar te kunnen maken voor gebruikers buiten development(niet klanten zelf) maar medewerkers binnen productie capaciteit. Dit zal op termijn veel tijd en geld besparen omdat hierdoor de workflow van het aanpassen van vertalingen veel minder tijds intensief zal zijn en niet specifiek door iemand binnen development gedaan hoeft te worden.
 
 # Beschrijving van het proces
 Ik heb deelgenomen aan het Hotflo scrum team binnen Performation, hier heb ik dus met de scrum methodiek gewerkt met sprints van 3 weken.
