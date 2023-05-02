@@ -16,6 +16,8 @@ Francois haan
 | 1.2 | 03/04/2023 | Francois Haan | Verder werken aan onderzoek | Klaar |
 | 1.3 | 05/04/2023 | Francois Haan | Verder werken aan onderzoek | Klaar |
 | 1.4 | 06/04/2023 | Francois Haan | Conclusie | Klaar |
+| 1.5 | 14/04/2023 | Francois Haan | Feedback verwerken | Klaar |
+| 1.6 | 17/04/2023 | Francois Haan | Spelfouten en zinsopbouw verbeteren | Klaar |
 
 Contents
 
@@ -31,11 +33,11 @@ Contents
 
 # Wat ga ik onderzoeken?
 
-In dit onderzoek ga ik onderzoeken hoe ik de nodige teksten/data kan overzetten van de vertaalmodule applicatie naar de nodige applicaties binnen het systeem van Performation. En hoe dit in de praktijk zou werken ook enigszins rekening houden met de grootte en hoeveelheid teksten die omgezet moeten worden. Ook zal ik hierbij rekening houden dat het momenteel allemaal wordt opgeslagen in Yaml bestanden en of er een mogelijkheid is om teksten over te zetten naar Yaml of Yaml bestanden binnen mijn applicatie aan te passen.
+In dit onderzoek ga ik onderzoeken hoe ik de nodige teksten/data kunnen overzetten van de vertaalmodule applicatie naar de nodige applicaties binnen het systeem van Performation. En hoe dit in de praktijk zou werken ook enigszins rekening houden met de grootte en hoeveelheid teksten die omgezet moeten worden. Ook zal ik hierbij rekening houden dat het momenteel allemaal wordt opgeslagen in Yaml bestanden en of er een mogelijkheid is om teksten over te zetten naar Yaml of Yaml bestanden binnen mijn applicatie aan te passen.
 
 # Hoe gaat ik het onderzoeken?
 
-Ik ga dit uitzoeken door het gebruik van literatuur onderzoek, ik ga online naar bestaande oplossingen zoeken en uitzoeken hoe ik deze zou kunnen toepassen binnen mijn applicatie en welke het beste overeen komt met het doel van mijn applicatie.
+Ik ga dit uitzoeken door het gebruik van literatuuronderzoek, ik ga online naar bestaande oplossingen zoeken en uitzoeken hoe ik deze zou kunnen toepassen binnen mijn applicatie en welke het beste overeenkomt met het doel van mijn applicatie.
 
 # Waarom ga ik het onderzoeken?
 
@@ -43,51 +45,53 @@ Ik ga het onderzoeken omdat dit heel belangrijk is voor het gebruik van de appli
 
 # Resultaten
 
-Momenteel worden de vertaling bestanden allemaal opgeslagen in yml dus mijn vertaalmodule moet hier natuurlijk ook mee werken een mogelijke manier zou eventueel zijn om files vanuit de vertaal module te exporteren en dan importeren binnenin de applicatie, maar dit kost misschien wel minder tijd maar is nog altijd verre van optimaal omdat hier nog altijd redelijk wat tijd in zal gaat zitten.
+Momenteel worden de vertaling bestanden allemaal opgeslagen in Yaml dus mijn vertaalmodule moet hier natuurlijk ook mee werken een mogelijke manier zou eventueel zijn om files vanuit de vertaal module te exporteren en dan importeren binnenin de applicatie, maar dit kost misschien wel minder tijd maar is nog altijd verre van optimaal omdat hier nog altijd redelijk wat tijd in zal gaat zitten.
 
 (Boggiano, z.d.), (2022b)
 
-Deze bundle voor Symfony geeft de mogelijkheid voor het importeren naar de database en een GUI om vertalingen aan te kunnen passen, ook geeft een de mogelijkheid om vertalingen van een database naar een bestand te kunnen exporteren naar bijvoorbeeld yaml. En nieuwe vertalingen toe te voegen aan de database was natuurlijk ook mooi meegenomen is en binnen mijn applicatie totaal niet fout zou zijn. Dit geeft ook de mogelijkheid om beide vertalingen van bestanden en de database te gebruiken wel zullen bij dubbel bestaande vertalingen de database het bestand overschrijven.
+Deze bundel voor Symfony geeft de mogelijkheid voor het importeren naar de database en een GUI om vertalingen aan te kunnen passen, ook geeft een de mogelijkheid om vertalingen van een database naar een bestand te kunnen exporteren naar bijvoorbeeld yml. En nieuwe vertalingen toe te voegen aan de database was natuurlijk ook mooi meegenomen is en binnen mijn applicatie totaal niet fout zou zijn. Dit geeft ook de mogelijkheid om beide vertalingen van bestanden en de database te gebruiken wel zullen bij dubbel bestaande vertalingen de database het bestand overschrijven.
 
-![](RackMultipart20230411-1-ial65k_html_bee796515ecb2ea1.png)
+![image](https://user-images.githubusercontent.com/71487939/235655624-b122dee9-32b2-4fc2-975e-bc1e8a789846.png)
 
-Dit is met gebruik van de bundle en het enigste probleem wat ik hier wel al meteen mee zie is dat het totaal niet overzichtelijk is en bij veel verschillende vertalingen kan dit verwarrend worden. Dus deze oplossing zou zeker aangepast moeten worden om het overzichtelijk te houden.
+Dit is met gebruik van de bundel en het enige probleem wat ik hier wel al meteen mee zie is dat het totaal niet overzichtelijk is en bij veel verschillende vertalingen kan dit verwarrend worden. Dus deze oplossing zou zeker aangepast moeten worden om het overzichtelijk te houden.
 
-(_Translation and Localization in Symfony 3.4 and 4.0 / Unity Group_, z.d.)
+(_Translation and Localization in Symfony 3.4 and 4.0/ Unity Group_, z.d.)
 
-Voor data/vertalingen die aangepast moeten kunnen worden door de gebruiker kan het handig zijn een table te maken voor de vertalingen zolang dit niet teveel invloed heeft op de performance.
+Voor data/vertalingen die aangepast moeten kunnen worden door de gebruiker kan het handig zijn een tabel te maken voor de vertalingen zolang dit niet te veel invloed heeft op de performance.
 
 (_Symfony Translation Bundle — PHP Translation 1.0.0 documentation_, z.d.)
 
-Heeft ook een symfony WebUI waardoor de vertalingen makkelijk aangepast kunnen worden door iedereen die kan lezen.
+Heeft ook een Symfony WebUI waardoor de vertalingen makkelijk aangepast kunnen worden door iedereen die kan lezen.
 
-Hierbinnen zoals laten zien op de foto zijn er ook verschillende domeinen waar de gebruiker uit kan kiezen waardoor het overzichtelijk blijft ![](RackMultipart20230411-1-ial65k_html_21cd1c05145e0976.png)
+Hierbinnen zoals laten zien op de foto zijn er ook verschillende domeinen waar de gebruiker uit kan kiezen waardoor het overzichtelijk blijft ![image](https://user-images.githubusercontent.com/71487939/235655651-810d81b7-c7c3-45ee-abcb-68a88ab119fd.png)
 
 (_About Loco, Translation management_, z.d.)
 
 Loco is een Vertaling manager waar de vertalingen vertaald kunnen worden en dan direct geïntrigeerd met de applicatie waar developers Keys kunnen pushen voor andere gebruikers om de vertalingen te kunnen aanpassen
 
-Natuurlijk ook een manier om data binnen te halen van een andere applicatie is doormiddel van het gebruik van een api die dan wordt aangeroepen door de hoofdapplicatie en die dan als het goed is de nodige data/bestanden binnen krijgt. Wat ook een mogelijkheid is het gebruik van een docker container database die beide applicaties gebruiken waar alle vertalingen dan opgeslagen worden en aangepast kunnen worden.
+Natuurlijk ook een manier om data binnen te halen van een andere applicatie is doormiddel van het gebruik van een API die dan wordt aangeroepen door de hoofdapplicatie en die dan als het goed is de nodige data/bestanden binnenkrijgt. Wat ook een mogelijkheid is het gebruik van een Docker container database die beide applicaties gebruiken waar alle vertalingen dan opgeslagen worden en aangepast kunnen worden.
 
-(z.d.-e)
+(Z.d.-e)
 
 Symfony heeft ook de mogelijkheid om de API van enkele vertaling providers te gebruiken binnen het config bestand en deze binnen te halen en up te daten door de console misschien is dit ook wel een mogelijkheid voor mijn applicatie.
 
-(z.d.-b)
+(Z.d.-b)
 
-Het is mogelijk om binnen symfony meerdere databases te gebruiken dit zou dan hopelijk minimale impact hebben op de applicatie omdat als het goed is de vertalingen binnenhalen maar 1 keer hoeft te gebeuren deze zou dan in een nieuwe docker container zitten waar de vertalingen up to date worden gehouden en makkelijk toegankelijk zijn voor iedereen.
+Het is mogelijk om binnen symfony meerdere databases te gebruiken dit zou dan hopelijk minimale impact hebben op de applicatie omdat als het goed is de vertalingen binnenhalen maar 1 keer hoeft te gebeuren deze zou dan in een nieuwe Docker container zitten waar de vertalingen up to date worden gehouden en makkelijk toegankelijk zijn voor iedereen.
 
 (Videos, 2017)
 
-Hier wordt uitgelegd dat er ook een mogelijkheid is om binnen Symfony CSV bestanden te importeren dit is ook een mogelijkheid om deze door de vertaalmodule een CSV bestand te laten exporteren en deze dan in de nodige applicatie te kunnen importeren en in de database op te slaan.
+Hier wordt uitgelegd dat er ook een mogelijkheid is om binnen Symfony CSV bestanden te importeren dit is ook een mogelijkheid om deze door de vertaalmodule een CSV-bestand te laten exporteren en deze dan in de nodige applicatie te kunnen importeren en in de database op te slaan.
 
 (_How to Import and Export CSV Files Using PHP and MySQL_, 2022b)
 
-Op deze pagina hetzelfde kunnen importeren en exporteren van database gegevens betekent natuurlijk wel dat het in de database opgeslagen moet worden als deze methode wordt gebruikt tenzij er een mogelijkheid is om deze mogelijk wanneer het binnen de applicatie is ze om te zetten naar YAML bestanden.
+Op deze pagina hetzelfde kunnen importeren en exporteren van database gegevens betekent natuurlijk wel dat het in de database opgeslagen moet worden als deze methode wordt gebruikt tenzij er een mogelijkheid is om deze mogelijk wanneer het binnen de applicatie is ze om te zetten naar YAML-bestanden.
+
+Momenteel wordt het binnen het systeem gedaan door de vertaling bestanden in een aparte git sub module zitten, waardoor de bestanden in hun eigen git repository zitten en hiermee kan ik apart de bestanden inladen en aanpassen binnen mijn applicatie.
 
 **Conclusie**
 
-Ik heb zelf nogal moeite met besluiten welke van deze methodes reëel zijn en goed zouden kunnen werken binnen de applicatie en wat de beste manier zal zijn voor deze methodes. Ik zal dit dus met mijn stagebegeleider(expert interview?) gaan bespreken en dan over de gevonden of eventueel niet gevonden methodes een keuze te maken om me of te focussen voor de vertaalmodule.
+Ik heb zelf nogal moeite met besluiten welke van deze methodes reëel zijn en goed zouden kunnen werken binnen de applicatie en wat de beste manier zal zijn voor deze methodes. Ik zal dit dus met mijn stagebegeleider (expertinterview?) gaan bespreken en dan over de gevonden of eventueel niet gevonden methodes een keuze te maken om me of te focussen voor de vertaalmodule. Na een gesprek een feedback met mijn stagebegeleider zijn we tot de conclusie gekomen dat het al mogelijk is met de momenteel gebruikte git modules voor de vertalingen dus hier zal ik gebruik van maken.
 
 **Bronnen**
 
@@ -107,7 +111,7 @@ Bosch, M. (2018, 11 mei). _Share backend translations with the frontend - Maximi
 
 _Overview - OroCommerce, OroCRM and OroPlatform Documentation_. (z.d.). Oro Documentation. https://doc.oroinc.com/backend/integrations/import-export/overview/
 
-_Sources — SonataExporter  documentation_. (z.d.). https://docs.sonata-project.org/projects/exporter/en/3.x/reference/sources/
+_Sources — SonataExporter documentation_. (z.d.). https://docs.sonata-project.org/projects/exporter/en/3.x/reference/sources/
 
 S. (z.d.-e). _Translations (Symfony Docs)_. Symfony. https://symfony.com/doc/current/translation.html
 
