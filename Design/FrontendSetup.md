@@ -136,7 +136,7 @@ Mijn eigen idee om het overzichtelijk te houden is ook te werken in categorieën
 
 Enkele voorbeelden van Symfony bundels die de mogelijkheid bieden voor aanpassingen te maken doormiddel van een User interface
 
-![](RackMultipart20230502-1-z5gq36_html_21cd1c05145e0976.png)
+![image](https://user-images.githubusercontent.com/71487939/235656258-888bd609-0556-4ca4-9573-58c06496a0ed.png)
 
 Dit kan zeker iets van een front-end styling gebruik maken maar hoe het wordt laten zien met de verschillende talen/locaties en de verschillende domeinen waardoor het overzichtelijk blijft.
 
@@ -144,7 +144,7 @@ Dit kan zeker iets van een front-end styling gebruik maken maar hoe het wordt la
 
 Enkele tips voor het gebruik van input velden is bijvoorbeeld het gebruik van een achtergrondkleur voor alles behalve de input zelf zodat het duidelijk is voor de gebruiker waar de informatie ingevuld moet worden.
 
-![](RackMultipart20230502-1-z5gq36_html_7541627b5075b75f.png)
+![image](https://user-images.githubusercontent.com/71487939/235656286-c5118321-e527-4bdc-93ae-4819622a5ce8.png)
 
 Ook is het belangrijk dat er voor de gebruiker duidelijk wordt aangegeven waar er momenteel tekst ingevuld wordt zodat dingen niet op de verkeerde plek worden ingevoerd. Dit kan onder andere doormiddel van gebruik van kleur een dikkere rand om de input heen. Wel moet bij kleuren altijd rekening gehouden worden met kleurenblinden gebruikers.
 
