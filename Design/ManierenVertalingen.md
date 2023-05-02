@@ -62,11 +62,11 @@ Maar dit is net het probleem wat mijn applicatie moet oplossen dus dit is niet i
 
 Een van de bundels binnen Symfony waar het vertalen van de teksten binnen de applicatie geregeld wordt. Die gebruikt maken van de git sub modules waar alle vertalingen worden opgeslagen in 3 verschillende talen en deze worden dan door de Symfony translate bundel vertaald gebaseerd op de ingestelde taal van de gebruiker.
 
-![](RackMultipart20230502-1-iy0219_html_85e03d75b2cd2ee0.png)
+![image](https://user-images.githubusercontent.com/71487939/235693277-7c39fa8d-e315-4827-8cbb-c17a32a0ad8c.png)
 
 Zo ziet het eruit binnen Twig de template engine waar Symfony gebruik van maakt. Ook kan hierin een standaardtaal worden meegegeven als er bijvoorbeeld geen vertaling is voor een taal zal het terug gaan naar de standaard.
 
-![](RackMultipart20230502-1-iy0219_html_f33cb712fcf4c9f4.png)
+![image](https://user-images.githubusercontent.com/71487939/235693303-826e677f-2925-4ce6-b0ed-a83a7121e08f.png)
 
 Dit zijn de commando's waardoor je de content kan updaten en automatisch alles aanpassen
 
