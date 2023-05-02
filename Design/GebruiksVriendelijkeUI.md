@@ -16,6 +16,7 @@ Francois haan
 | 1.1 | 15/03/2023 | Francois Haan | Verder uitwerken resultaten en conclusie | Klaar |
 | 1.2 | 27/03/2023 | Francois Haan | Aanpassing onderzoeksvraag en toevoegen citaties | Klaar |
 | 1.3 | 03/04/2023 | Francois Haan | Toevoeging conclusie en resultaat | Klaar |
+| 1.4 | 17/04/2023 | Francois Haan | Spellingcontrole | Klaar |
 
 Contents
 
@@ -31,17 +32,17 @@ Contents
 
 # Wat ga ik onderzoeken?
 
-Ik ga onderzoeken hoe ik een goeie gebruiksvriendelijke UI zou moeten maken. Omdat een van de hoofddoelen van mijn applicatie is dat het gebruiksvriendelijk moet zijn en goed te gebruiken door gebruikers zonder veel technische kennis. UI designers volgen UI design principes dit zijn high-level concepten om software design te leiden.
+Ik ga onderzoeken hoe ik een goeie gebruiksvriendelijke UI zou moeten maken. Omdat een van de hoofddoelen van mijn applicatie is dat het gebruiksvriendelijk moet zijn en goed te gebruiken door gebruikers zonder veel technische kennis. UI designers volgen UI design principes dit zijn high-level concepten om softwaredesign te leiden.
 
 # Hoe gaat ik het onderzoeken?
 
-Ik ga het onderzoeken door het gebruik van literatuur onderzoek door te kijken naar de talloze artikelen, blogs en boeken die hier over zijn geschreven en de belangrijkste punten en richtlijnen voor een goede gebruiksvriendelijke UI er uit te halen en toe te passen binnen mijn project. Ook zal ik Available product analysis toepassen doormiddel van kijken naar wat soortgelijke applicaties voor een user interface gebruiken.
+Ik ga het onderzoeken door het gebruik van literatuuronderzoek door te kijken naar de talloze artikelen, blogs en boeken die hierover zijn geschreven en de belangrijkste punten en richtlijnen voor een goede gebruiksvriendelijke UI eruit te halen en toe te passen binnen mijn project. Ook zal ik Available product analysis toepassen doormiddel van kijken naar wat soortgelijke applicaties voor een user interface gebruiken.
 
-Ook is het een mogelijkheid om een expert interview te plannen aangezien er hier een ui/ux specialist is die mij de goede richting in zou kunnen sturen.
+Ook is het een mogelijkheid om een expertinterview te plannen aangezien er hier een ui/ux specialist is die mij de goede richting in zou kunnen sturen.
 
 # Waarom ga ik het onderzoeken?
 
-Ik ga onderzoeken hoe ik een gebruiksvriendelijke User Interface maak omdat dit een groot onderdeel is van mijn applicatie en UI een kritisch deel is van elk software product. Wanneer het goed gedaan is zien gebruikers het niet eens maar wanneer het slecht is gedaan kunnen gebruikers niet efficiënt de applicatie gebruiker. Zodat de meeste gebruikers geen moeite zullen hebben met het gebruiken van mijn applicatie en het aan te kunnen passen en opslaan van teksten en vertalingen.
+Ik ga onderzoeken hoe ik een gebruiksvriendelijke User Interface maak omdat dit een groot onderdeel is van mijn applicatie en UI een kritisch deel is van elk softwareproduct. Wanneer het goed gedaan is zien gebruikers het niet eens maar wanneer het slecht is gedaan kunnen gebruikers niet efficiënt de applicatie gebruiker. Zodat de meeste gebruikers geen moeite zullen hebben met het gebruiken van mijn applicatie en het aan te kunnen passen en opslaan van teksten en vertalingen.
 
 # Resultaten
 
@@ -51,7 +52,7 @@ Enkele principes voor ui design zijn:
 
 - Houdt de interface simpel
 - Consistent zijn en dezelfde ui elementen gebruiken
-- Ben doelgericht in de pagina layout
+- Doelgericht zijn in de pagina lay-out
 - Strategisch gebruik maken van kleur en textuur
 - Typografie gebruiken voor een hiërarchie en duidelijkheid
 - Systeem laten communiceren wat gebeurt
@@ -62,20 +63,20 @@ Enkele principes voor ui design zijn:
 - Niet vragen voor data die al ingegeven was
 - Fitts's regel voor interactieve elementen
 - Echte wereld metaforen gebruiken
-- Maak voor errors
+- Maak voor error
 - Informatie of acties opdelen in stukken
-- Hoeveelheid acties verminderen om iets uit te voeren
+- Hoeveelheid acties vermindert om iets uit te voeren
 - Herkennen is beter dan herinneren.
 
 **Houdt de interface simpel**
 
-Redelijk vanzelf spreken maar alles eenvoudig houden en niet teveel ui elementen te gebruiken
+Redelijk vanzelf spreken maar alles eenvoudig houden en niet te veel ui elementen te gebruiken
 
 **Consistent zijn en dezelfde ui elementen gebruiken**
 
-Dezelfde inputs en interactive elementen hetzelfde uit laten zien en gedragen waardoor de user het makkelijker kan gebruiken
+Dezelfde input en interactieve elementen hetzelfde uit laten zien en gedragen waardoor de user het makkelijker kan gebruiken
 
-**Ben doelgericht in de pagina layout**
+**doelgericht zijn in de pagina lay-out**
 
 Belangrijke informatie of knoppen beter naar voor laten komen wat helpt met de leesbaarheid van de pagina.
 
@@ -85,11 +86,11 @@ Je kan door het gebruik van kleuren aandacht naar iets trekken, hiermee wel reke
 
 **Typografie gebruiken voor een hiërarchie en duidelijkheid**
 
-Het gebruik van verschillende lettertypes en letter grootte kan ook helpen met de leesbaarheid van de pagina en de gebruiker helpen met belangrijke informatie/elementen snel te vinden.
+Het gebruik van verschillende lettertypes en lettergrootte kan ook helpen met de leesbaarheid van de pagina en de gebruiker helpen met belangrijke informatie/elementen snel te vinden.
 
 **Systeem laten communiceren wat gebeurt**
 
-De gebruiker laten weten wat er gebeurt bijvoorbeeld met acties en errors, duidelijk laten weten wat er aan de hand is en wat er mis zou zijn gegaan.
+De gebruiker laten weten wat er gebeurt bijvoorbeeld met acties en error, duidelijk laten weten wat er aan de hand is en wat er mis zou zijn gegaan.
 
 **Denk na over de standaard waardes voor bij een form**
 
@@ -103,11 +104,11 @@ De gebruiker acties laten weghalen met bijvoorbeeld een undo knop waardoor de ge
 
 De navigatie moet duidelijk en vanzelfsprekend zijn bijvoorbeeld door visuele cues te geven.
 
-![](RackMultipart20230411-1-60m39s_html_5b1155e42bc1437f.jpg)
+![](RackMultipart20230502-1-m45kiz_html_5b1155e42bc1437f.jpg)
 
 **Elimineer alle elementen die de user niet helpen**
 
-Dit punt lijkt wel op de houdt het simpel maar het punt hiervan is dat een UI geen onnodige of bijna nooit nodige informatie moet hebben .
+Dit punt lijkt wel op de houdt het simpel maar het punt hiervan is dat een UI geen onnodige of bijna nooit nodige informatie moet hebben.
 
 **Niet vragen voor data die al ingegeven is**
 
@@ -121,17 +122,17 @@ Fitts's regel zegt dat de tijd om een doel te vinden is een functie van de afsta
 
 Dit zorgt voor een connectie tussen de echte wereld en digitale ervaringen zoals bijvoorbeeld de vuilnisbak op de desktop, kan ook door gebruik van bijvoorbeeld icoontjes zodat het meteen duidelijk is voor de gebruiker.
 
-**Maak voor errors**
+**Maak voor error**
 
 Duidelijk aangeven wat er fout is gegaan en hints geven voor het oplossen van het probleem. Wat nog beter is dan goede error berichten hebben is het voorkomen ervan, door bijvoorbeeld als een user iets vergeet in een form een bericht en optie te geven om het alsnog in te vullen.
 
-![](RackMultipart20230411-1-60m39s_html_8abe6b402202b747.png)
+![](RackMultipart20230502-1-m45kiz_html_8abe6b402202b747.png)
 
 **Informatie of acties opdelen in stukken**
 
 Een voorbeeld hiervan is bij een telefoonnummer dit is altijd in stukken opgedeeld zodat de leesbaarheid beter is voor de gebruiker. En dit doen voor grote teksten
 
-**Hoeveelheid acties verminderen om iets uit te voeren**
+**Hoeveelheid acties vermindert om iets uit te voeren**
 
 Bij het maken van een UI zo min mogelijk acties voor het doel van de gebruiker. De 3 klik regel is hier een voorbeeld van wat suggereert dat de gebruiker informatie moet kunnen vinden met niet meer dan 3 kliks.
 
@@ -139,11 +140,11 @@ Bij het maken van een UI zo min mogelijk acties voor het doel van de gebruiker. 
 
 Binnen een UI kan dit geholpen worden door het gebruik van bijvoorbeeld tooltips, visuele hulp en context gevoelige details.
 
-![](RackMultipart20230411-1-60m39s_html_3c0a568827429205.png)
+![](RackMultipart20230502-1-m45kiz_html_3c0a568827429205.png)
 
-Kijken naar de bestaande mogelijkheden die er zijn binnen Symfony packages is dit een van de beter met de verschillende talen om uit te kiezen en de domeinen wat zorgt dat het overzichtelijk bekeken kan worden, ik weet alleen niet of dit met soms wel meer dan 250 vertalingen binnen een bestand of het op deze manier overzichtelijk blijft dus hier zal ik zeker wat van de eerder genoemde principes moeten gaan toepassen
+Kijken naar de bestaande mogelijkheden die er zijn binnen Symfony packages is dit een van de beter met de verschillende talen om uit te kiezen en de domeinen wat zorgt dat het overzichtelijk bekeken kan worden, ik weet alleen niet of dit met soms wel meer dan 250 vertalingen binnen een bestand of het op deze manier overzichtelijk blijft dus hier zal ik zeker wat van de eerdergenoemde principes moeten gaan toepassen
 
-![](RackMultipart20230411-1-60m39s_html_21cd1c05145e0976.png)
+![](RackMultipart20230502-1-m45kiz_html_21cd1c05145e0976.png)
 
 **Conclusie**
 
