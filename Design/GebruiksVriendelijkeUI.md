@@ -104,7 +104,7 @@ De gebruiker acties laten weghalen met bijvoorbeeld een undo knop waardoor de ge
 
 De navigatie moet duidelijk en vanzelfsprekend zijn bijvoorbeeld door visuele cues te geven.
 
-![](RackMultipart20230502-1-m45kiz_html_5b1155e42bc1437f.jpg)
+![image](https://user-images.githubusercontent.com/71487939/235654832-6b7806c4-29a9-4a18-bd48-258988352c92.png)
 
 **Elimineer alle elementen die de user niet helpen**
 
@@ -126,7 +126,7 @@ Dit zorgt voor een connectie tussen de echte wereld en digitale ervaringen zoals
 
 Duidelijk aangeven wat er fout is gegaan en hints geven voor het oplossen van het probleem. Wat nog beter is dan goede error berichten hebben is het voorkomen ervan, door bijvoorbeeld als een user iets vergeet in een form een bericht en optie te geven om het alsnog in te vullen.
 
-![](RackMultipart20230502-1-m45kiz_html_8abe6b402202b747.png)
+![image](https://user-images.githubusercontent.com/71487939/235654860-837946b5-cccd-4010-88b8-3b9a0f805627.png)
 
 **Informatie of acties opdelen in stukken**
 
@@ -140,11 +140,11 @@ Bij het maken van een UI zo min mogelijk acties voor het doel van de gebruiker. 
 
 Binnen een UI kan dit geholpen worden door het gebruik van bijvoorbeeld tooltips, visuele hulp en context gevoelige details.
 
-![](RackMultipart20230502-1-m45kiz_html_3c0a568827429205.png)
+![image](https://user-images.githubusercontent.com/71487939/235654899-899e2d2b-a4e9-4361-929d-8442c309f59a.png)
 
 Kijken naar de bestaande mogelijkheden die er zijn binnen Symfony packages is dit een van de beter met de verschillende talen om uit te kiezen en de domeinen wat zorgt dat het overzichtelijk bekeken kan worden, ik weet alleen niet of dit met soms wel meer dan 250 vertalingen binnen een bestand of het op deze manier overzichtelijk blijft dus hier zal ik zeker wat van de eerdergenoemde principes moeten gaan toepassen
 
-![](RackMultipart20230502-1-m45kiz_html_21cd1c05145e0976.png)
+![image](https://user-images.githubusercontent.com/71487939/235654952-43b9ee8a-bb6c-45ec-af30-64ed74ebe2ec.png)
 
 **Conclusie**
 
