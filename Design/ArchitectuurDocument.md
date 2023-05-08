@@ -162,3 +162,6 @@ Enkele fouten gecorrigeerd in deze
 **Na feedback heb ik mijn klasse diagram aangepast**
 
 ![](RackMultipart20230508-1-etia2e_html_18991301a7a96adf.png)
+
+
+![image](https://user-images.githubusercontent.com/71487939/236818936-974d5fa0-52b1-44e6-9ba2-be5bbae41d28.png)
