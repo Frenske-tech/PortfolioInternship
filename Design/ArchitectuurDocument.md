@@ -24,23 +24,27 @@ Contents
 
 _Level 1_
 
-![](RackMultipart20230426-1-tx4kzw_html_775cb46e228138a5.png)
+![image](https://user-images.githubusercontent.com/71487939/236818133-8f9bc98f-4a14-443e-a391-925a4daf634e.png)
 
 _Level 2_
 
-![](RackMultipart20230426-1-tx4kzw_html_3d4011dd55f2cbe6.png)
+![image](https://user-images.githubusercontent.com/71487939/236818152-bd292c8c-d05e-4745-aad3-6019a0d15d46.png)
 
 **Data-flow-diagram**
 
-![](RackMultipart20230426-1-tx4kzw_html_b971216ce39eb281.png)
+![image](https://user-images.githubusercontent.com/71487939/236818180-72fa1374-64b3-471e-bcd0-7bd8b2bb45df.png)
 
-![](RackMultipart20230426-1-tx4kzw_html_9ba4d3d6933339b1.png)
+![image](https://user-images.githubusercontent.com/71487939/236818215-e8d4ec56-e57a-4f39-97d5-8c5bf90a4665.png)
 
-![](RackMultipart20230426-1-tx4kzw_html_77cb1c3538f92736.png)
+![image](https://user-images.githubusercontent.com/71487939/236818239-d637ba38-2db9-42e3-8d90-ff27911a9b51.png)
 
 **Use-case-diagram**
 
-![](RackMultipart20230426-1-tx4kzw_html_21a26db175c3e524.png)
+![image](https://user-images.githubusercontent.com/71487939/236818336-0754f759-997f-458e-8698-807f6236086d.png)
+
+**De geupdaten use-case-diagram met enkele van de eventuele mogelijkheden**
+
+![image](https://user-images.githubusercontent.com/71487939/236818363-03713f47-dd8c-4c6b-8c78-0d85d51eaf7a.png)
 
 **Use-cases**
 
@@ -51,8 +55,10 @@ _Level 2_
 | **Actors** | **De gebruiker van de applicatie( een medewerker binnen Performation)** |
 | **Precondities** | **Gebruiker moet binnen het systeem van Performation zitten.** |
 | **Basis flow** |
-| **1. Gebruiker navigeert naar de aan te passen vertaling**** 2. De gebruiker vult de aangepaste vertaling in. ****3. Het systeem slaat de aangepaste vertaling op** |
+| **1. Gebruiker navigeert naar de aan te passen vertaling**** 2. De gebruiker vult de aangepaste vertaling in. ****3. De gebruiker geeft confirmatie voor de gemaakte aanpassing** |
 | **Succes scenario** | **Vertaling is aangepast** |
+
+![image](https://user-images.githubusercontent.com/71487939/236818430-b37c198b-4701-4f80-ae5a-146220466fa6.png)
 
 | **Use case** |
 | --- |
@@ -61,8 +67,10 @@ _Level 2_
 | **Actors** | **De gebruiker van de applicatie( een medewerker binnen Performation)** |
 | **Precondities** | **De gebruiker moet binnen het systeem van Performation zitten** |
 | **Basis flow** |
-| **1. De gebruiker navigeert naar de vertalingen**** 2. De gebruiker vult de zoekopdracht in ****3. het systeem geeft de resultaten weer** |
+| **1. De gebruiker navigeert naar de vertalingen**** 2. De gebruiker vult de zoekopdracht in ****3. De gebruiker ziet een overzicht van de resultaten** |
 | **Succes scenario** | **Het systeem geeft alles gebaseerd op de zoekopdracht weer** |
+
+![image](https://user-images.githubusercontent.com/71487939/236818472-0e5804e2-34c8-4a2e-978c-215dbf81c2de.png)
 
 | **Use case** |
 | --- |
@@ -71,9 +79,10 @@ _Level 2_
 | **Actors** | **De gebruiker van de applicatie( een medewerker binnen Performation)** |
 | **Precondities** | **De gebruiker moet binnen het systeem van Performation zitten** |
 | **Basis flow** |
-| **1. De gebruiker navigeert naar de vertalingen pagina**** 2. De gebruiker voert de benodigde gegevens voor een nieuwe vertaling in (key, value) ****3. Het systeem slaat de nieuwe vertaling op.**** 4. Het systeem laat de nieuwe vertaling zien.**
- |
+| **1. De gebruiker navigeert naar de vertalingen pagina**** 2. De gebruiker voert de benodigde gegevens voor een nieuwe vertaling in (key, value) ****3. De gebruiker geeft confirmatie voor de gemaakte aanpassing.**** 4. de gebruiker ziet de nieuwe vertaling toegevoegd.** |
 | **Succes scenario** | **Het systeem voegt de nieuwe vertaling toe.** |
+
+![image](https://user-images.githubusercontent.com/71487939/236818585-35e75a18-574e-45f5-856e-7585c9202588.png)
 
 | **Use case** |
 | --- |
@@ -82,9 +91,11 @@ _Level 2_
 | **Actors** | **De gebruiker van de applicatie( een medewerker binnen Performation)** |
 | **Precondities** | **De gebruiker moet binnen het systeem van Performation zitten** |
 | **Basis flow** |
-| **1.**
+| **1. De gebruiker ziet een lijst van alle domeinen.**  **2. De gebruiker selecteert een domein.**** 3. De gebruiker ziet een lijst van alle vertalingen binnen dat domein**
  |
 | **Succes scenario** | **Het systeem filtert op het specifieke domein en laat alleen maar vertalingen uit dit domein zien.** |
+
+![image](https://user-images.githubusercontent.com/71487939/236818624-121abdbf-22d1-49de-aa6a-6078d144ca38.png)
 
 | **Use case** |
 | --- |
@@ -93,9 +104,10 @@ _Level 2_
 | **Actors** | **De gebruiker van de applicatie( een medewerker binnen Performation)** |
 | **Precondities** | **De gebruiker moet binnen het systeem van Performation zitten** |
 | **Basis flow** |
-| **1. De gebruiker navigeert naar de vertalingen pagina**** 2. De gebruiker heeft aanpassingen gemaakt ****3. De gebruiker heeft de aanpassingen opgeslagen**** 4. De gebruiker zet de vertalingen door ****5. het systeem communiceert met de submodule en maakt de gemaakte aanpassingen en zet deze door.**
- |
+| **1. De gebruiker navigeert naar de vertalingen pagina**** 2. De gebruiker heeft aanpassingen gemaakt ****3. De gebruiker heeft de aanpassingen opgeslagen**** 4. De gebruiker zet de vertalingen door** |
 | **Succes scenario** | **Het systeem zet de vertalingen door voor controle en hierna compleet doorgezet naar de submodule** |
+
+![image](https://user-images.githubusercontent.com/71487939/236818665-d0d202ec-8288-45df-a739-64482cbc08b0.png)
 
 | **Use case** |
 | --- |
@@ -104,21 +116,49 @@ _Level 2_
 | **Actors** | **De gebruiker van de applicatie( een medewerker binnen Performation)** |
 | **Precondities** | **De gebruiker moet binnen het systeem van Performation zitten** |
 | **Basis flow** |
-| **1. De gebruiker navigeert naar de vertalingen pagina**** 2. De gebruiker voegt iets toe of maakt een aanpassing ****3. De gebruiker slaat de gemaakte aanpassing of toevoeging op**** 4. Het systeem slaat de aanpassing/toevoeging op in de database.**
+| **1. De gebruiker navigeert naar de vertalingen pagina**** 2. De gebruiker voegt iets toe of maakt een aanpassing ****3. De gebruiker slaat de gemaakte aanpassing of toevoeging op**** 4. De gebruiker ziet een confirmatie van de gemaakte aanpassingen/toevoegingen**
 
  |
 | **Succes scenario** | **Het systeem slaat de aanpassingen/toevoegingen op in de database** |
 
+![image](https://user-images.githubusercontent.com/71487939/236818798-44f2da10-c0c1-41e4-b231-1eee2fcb5b7d.png)
+
+| **Use case** |
+| --- |
+| **Titel** | **Aanpassen branch** |
+| **Beschrijving** | **Het aanpassen van de momentele branch van de git submodules** |
+| **Actors** | **De gebruiker van de applicatie( een medewerker binnen Performation)** |
+| **Precondities** | **De gebruiker moet binnen het systeem van Performation zitten** |
+| **Basis flow** |
+| **1. De gebruiker navigeert naar de vertalingen pagina**** 2. De gebruiker krijgt een scherm van de verschillende branches die er momenteel zijn ****3.De gebruiker kiest een van de branches**** 4. De gebruiker krijgt alle domeinen/vertalingen binnen deze branch te zien.**
+
+ |
+| **Succes scenario** | **Het systeem slaat de aanpassingen/toevoegingen op in de database** |
+
+![image](https://user-images.githubusercontent.com/71487939/236818878-68a8aad0-3479-4108-87cb-001284af60c0.png)
+
 **ERD diagram**
 
-I ![](RackMultipart20230426-1-tx4kzw_html_2f209eb18eb315f1.png) k ga geen ERD diagram maken aangezien dit heel veel tijd zou kosten omdat er veel verschillende tabellen moeten komen dit is maar een deel ervan maar ieder van deze Aparte bestanden krijgt een tabel in de database, alleen zal het niet 3 aparte tabellen hebben voor de ondersteunde talen deze zullen dan samen in een tabel zitten.
+I ![](RackMultipart20230508-1-etia2e_html_2f209eb18eb315f1.png) k ga geen ERD diagram maken aangezien dit heel veel tijd zou kosten omdat er veel verschillende tabellen moeten komen dit is maar een deel ervan maar ieder van deze Aparte bestanden krijgt een tabel in de database, alleen zal het niet 3 aparte tabellen hebben voor de ondersteunde talen deze zullen dan samen in een tabel zitten.
 
-![](RackMultipart20230426-1-tx4kzw_html_9c7bbe011b5640bc.png)
+![](RackMultipart20230508-1-etia2e_html_9c7bbe011b5640bc.png)
 
 Dit is een zo'n bestand hier is een key die uniek is binnen dit bestand en de tekst die daarbij hoort deze zullen dan beide ook in de database staan.
 
 Deze zullen dan voor overzicht waarschijnlijk opgedeeld worden in departementen om alles overzichtelijker te maken, de departementen hebben dan te maken waar ze binnen de applicatie gebruikt worden enkele voorbeelden hiervan zijn beheer, orso en bijvoorbeeld verpleegkundig personeel
 
+**Na een gesprek met mijn stagebegeleider is hiervoor een alternatief gevonden en deze heb ik verwerkt in een erd diagram**
+
+![](RackMultipart20230508-1-etia2e_html_90c2a455c2c2017d.png)
+
+Enkele fouten gecorrigeerd in deze
+
+![](RackMultipart20230508-1-etia2e_html_633ca793a135f859.png)
+
 **Klasse diagram**
 
-![](RackMultipart20230426-1-tx4kzw_html_888402a5e21ce4c9.png)
+![](RackMultipart20230508-1-etia2e_html_888402a5e21ce4c9.png)
+
+**Na feedback heb ik mijn klasse diagram aangepast**
+
+![](RackMultipart20230508-1-etia2e_html_18991301a7a96adf.png)
