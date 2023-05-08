@@ -56,7 +56,8 @@ _Level 2_
 | **Precondities** | **Gebruiker moet binnen het systeem van Performation zitten.** |
 | **Basis flow** |
 | **1. Gebruiker navigeert naar de aan te passen vertaling**** 2. De gebruiker vult de aangepaste vertaling in. ****3. De gebruiker geeft confirmatie voor de gemaakte aanpassing** |
-| **Succes scenario** | **Vertaling is aangepast** |
+| **Succes scenario** |
+|**Vertaling is aangepast** |
 
 ![image](https://user-images.githubusercontent.com/71487939/236818430-b37c198b-4701-4f80-ae5a-146220466fa6.png)
 
@@ -68,7 +69,8 @@ _Level 2_
 | **Precondities** | **De gebruiker moet binnen het systeem van Performation zitten** |
 | **Basis flow** |
 | **1. De gebruiker navigeert naar de vertalingen**** 2. De gebruiker vult de zoekopdracht in ****3. De gebruiker ziet een overzicht van de resultaten** |
-| **Succes scenario** | **Het systeem geeft alles gebaseerd op de zoekopdracht weer** |
+| **Succes scenario** | 
+|**Het systeem geeft alles gebaseerd op de zoekopdracht weer** |
 
 ![image](https://user-images.githubusercontent.com/71487939/236818472-0e5804e2-34c8-4a2e-978c-215dbf81c2de.png)
 
@@ -80,7 +82,8 @@ _Level 2_
 | **Precondities** | **De gebruiker moet binnen het systeem van Performation zitten** |
 | **Basis flow** |
 | **1. De gebruiker navigeert naar de vertalingen pagina**** 2. De gebruiker voert de benodigde gegevens voor een nieuwe vertaling in (key, value) ****3. De gebruiker geeft confirmatie voor de gemaakte aanpassing.**** 4. de gebruiker ziet de nieuwe vertaling toegevoegd.** |
-| **Succes scenario** | **Het systeem voegt de nieuwe vertaling toe.** |
+| **Succes scenario** | 
+|**Het systeem voegt de nieuwe vertaling toe.** |
 
 ![image](https://user-images.githubusercontent.com/71487939/236818585-35e75a18-574e-45f5-856e-7585c9202588.png)
 
@@ -92,8 +95,8 @@ _Level 2_
 | **Precondities** | **De gebruiker moet binnen het systeem van Performation zitten** |
 | **Basis flow** |
 | **1. De gebruiker ziet een lijst van alle domeinen.**  **2. De gebruiker selecteert een domein.**** 3. De gebruiker ziet een lijst van alle vertalingen binnen dat domein**
- |
-| **Succes scenario** | **Het systeem filtert op het specifieke domein en laat alleen maar vertalingen uit dit domein zien.** |
+| **Succes scenario** | 
+|**Het systeem filtert op het specifieke domein en laat alleen maar vertalingen uit dit domein zien.** |
 
 ![image](https://user-images.githubusercontent.com/71487939/236818624-121abdbf-22d1-49de-aa6a-6078d144ca38.png)
 
@@ -105,7 +108,8 @@ _Level 2_
 | **Precondities** | **De gebruiker moet binnen het systeem van Performation zitten** |
 | **Basis flow** |
 | **1. De gebruiker navigeert naar de vertalingen pagina**** 2. De gebruiker heeft aanpassingen gemaakt ****3. De gebruiker heeft de aanpassingen opgeslagen**** 4. De gebruiker zet de vertalingen door** |
-| **Succes scenario** | **Het systeem zet de vertalingen door voor controle en hierna compleet doorgezet naar de submodule** |
+| **Succes scenario** | 
+|**Het systeem zet de vertalingen door voor controle en hierna compleet doorgezet naar de submodule** |
 
 ![image](https://user-images.githubusercontent.com/71487939/236818665-d0d202ec-8288-45df-a739-64482cbc08b0.png)
 
@@ -117,9 +121,8 @@ _Level 2_
 | **Precondities** | **De gebruiker moet binnen het systeem van Performation zitten** |
 | **Basis flow** |
 | **1. De gebruiker navigeert naar de vertalingen pagina**** 2. De gebruiker voegt iets toe of maakt een aanpassing ****3. De gebruiker slaat de gemaakte aanpassing of toevoeging op**** 4. De gebruiker ziet een confirmatie van de gemaakte aanpassingen/toevoegingen**
-
- |
-| **Succes scenario** | **Het systeem slaat de aanpassingen/toevoegingen op in de database** |
+| **Succes scenario** | 
+|**Het systeem slaat de aanpassingen/toevoegingen op in de database** |
 
 ![image](https://user-images.githubusercontent.com/71487939/236818798-44f2da10-c0c1-41e4-b231-1eee2fcb5b7d.png)
 
@@ -131,9 +134,8 @@ _Level 2_
 | **Precondities** | **De gebruiker moet binnen het systeem van Performation zitten** |
 | **Basis flow** |
 | **1. De gebruiker navigeert naar de vertalingen pagina**** 2. De gebruiker krijgt een scherm van de verschillende branches die er momenteel zijn ****3.De gebruiker kiest een van de branches**** 4. De gebruiker krijgt alle domeinen/vertalingen binnen deze branch te zien.**
-
- |
-| **Succes scenario** | **Het systeem slaat de aanpassingen/toevoegingen op in de database** |
+| **Succes scenario** | 
+|**Het systeem slaat de aanpassingen/toevoegingen op in de database** |
 
 ![image](https://user-images.githubusercontent.com/71487939/236818878-68a8aad0-3479-4108-87cb-001284af60c0.png)
 
