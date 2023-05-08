@@ -139,9 +139,9 @@ _Level 2_
 
 **ERD diagram**
 
-I ![](RackMultipart20230508-1-etia2e_html_2f209eb18eb315f1.png) k ga geen ERD diagram maken aangezien dit heel veel tijd zou kosten omdat er veel verschillende tabellen moeten komen dit is maar een deel ervan maar ieder van deze Aparte bestanden krijgt een tabel in de database, alleen zal het niet 3 aparte tabellen hebben voor de ondersteunde talen deze zullen dan samen in een tabel zitten.
+I ![image](https://user-images.githubusercontent.com/71487939/236818936-974d5fa0-52b1-44e6-9ba2-be5bbae41d28.png) k ga geen ERD diagram maken aangezien dit heel veel tijd zou kosten omdat er veel verschillende tabellen moeten komen dit is maar een deel ervan maar ieder van deze Aparte bestanden krijgt een tabel in de database, alleen zal het niet 3 aparte tabellen hebben voor de ondersteunde talen deze zullen dan samen in een tabel zitten.
 
-![](RackMultipart20230508-1-etia2e_html_9c7bbe011b5640bc.png)
+![image](https://user-images.githubusercontent.com/71487939/236818979-e39a7697-a079-4872-9ad8-63ee85ac82f6.png)
 
 Dit is een zo'n bestand hier is een key die uniek is binnen dit bestand en de tekst die daarbij hoort deze zullen dan beide ook in de database staan.
 
@@ -149,19 +149,18 @@ Deze zullen dan voor overzicht waarschijnlijk opgedeeld worden in departementen 
 
 **Na een gesprek met mijn stagebegeleider is hiervoor een alternatief gevonden en deze heb ik verwerkt in een erd diagram**
 
-![](RackMultipart20230508-1-etia2e_html_90c2a455c2c2017d.png)
+![image](https://user-images.githubusercontent.com/71487939/236819061-0d40ef85-0049-4cb3-9354-0406b4681441.png)
 
 Enkele fouten gecorrigeerd in deze
 
-![](RackMultipart20230508-1-etia2e_html_633ca793a135f859.png)
+![image](https://user-images.githubusercontent.com/71487939/236819098-d74302b1-e0b3-419a-889e-d8707ec3e7d4.png)
 
 **Klasse diagram**
 
-![](RackMultipart20230508-1-etia2e_html_888402a5e21ce4c9.png)
+![image](https://user-images.githubusercontent.com/71487939/236819218-c0198da5-882f-4b2e-a09e-cce8759d93ea.png)
 
 **Na feedback heb ik mijn klasse diagram aangepast**
 
-![](RackMultipart20230508-1-etia2e_html_18991301a7a96adf.png)
+![image](https://user-images.githubusercontent.com/71487939/236819247-d98fd509-b949-402e-bacf-268764cc5055.png)
 
 
-![image](https://user-images.githubusercontent.com/71487939/236818936-974d5fa0-52b1-44e6-9ba2-be5bbae41d28.png)
