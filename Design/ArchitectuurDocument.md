@@ -141,7 +141,9 @@ _Level 2_
 
 **ERD diagram**
 
-I ![image](https://user-images.githubusercontent.com/71487939/236818936-974d5fa0-52b1-44e6-9ba2-be5bbae41d28.png) k ga geen ERD diagram maken aangezien dit heel veel tijd zou kosten omdat er veel verschillende tabellen moeten komen dit is maar een deel ervan maar ieder van deze Aparte bestanden krijgt een tabel in de database, alleen zal het niet 3 aparte tabellen hebben voor de ondersteunde talen deze zullen dan samen in een tabel zitten.
+Initieel was ik niet van plan een ERD te maken, omdat ik zelf dacht dat elk van deze bestanden in de onderstaande foto een aparte tabel zouden moeten worden. 
+Na een gesprek met mijn stagebegeleider duidelijk gewroden dat dit niet het geval is, hier is naderhand het erd diagram uitgekomen.
+![image](https://user-images.githubusercontent.com/71487939/236818936-974d5fa0-52b1-44e6-9ba2-be5bbae41d28.png)
 
 ![image](https://user-images.githubusercontent.com/71487939/236818979-e39a7697-a079-4872-9ad8-63ee85ac82f6.png)
 
