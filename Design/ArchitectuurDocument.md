@@ -182,6 +182,8 @@ Ook de aanpassingen binnen het ERD doorgevoerd binnen het klasse diagram
 ![image](https://github.com/Frenske-tech/PortfolioInternship/assets/71487939/5d8867c2-d5d5-46ed-a8ac-b2c54638f361)
 
 Hier heb ik feedback op gekregen en in overleg met mijn bedrijfsbegeleider  besloten dat er een nieuwe branch moet worden aangemaakt zodra de vertalingen doorgezete worden.
+
+
 ![image](https://github.com/Frenske-tech/PortfolioInternship/assets/71487939/3db043dd-9bae-4a33-9257-5202cf4884d0)
 
 
