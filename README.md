@@ -40,4 +40,8 @@ Ik had persoonlijk het gevoel dat mijn onderzoek was uitgelopen maar bij de teru
 
 Verder heb ik binnen het Hotflo systeem veel meegewerkt aan tickets specifiek in het bootstrap project waar door de migratie van een vorige bootstrap versie naar bootstrap 5 er op veel plekken styling aangepast moest worden, initieel begon ik met tickets binnen de vertalingen waar het simpel een tekst aanpassen was. Dit paste wel goed bij mijn opdracht en hielp me mijn weg te vinden in het systeem waardoor ik in de loop van mijn stage ook andere tickets op heb kunnen pakken onder andere gewone tickets die op de sprint werden toegevoegd in de vorm van bugs etc. hier ben ik natuurlijk best wel trots op en blij mee dat ik buiten mijn stageopdracht nog op een andere manier heb kunnen helpen en het is natuurlijk ook heel leerzaam geweest tot nu toe. 
 
+Wel vind ik van mezelf dat ik meer tijd had moeten nemen voor mijn stageopdracht inplaats van de tickets binnen het systeem. maar daar ben ik nu ook weer goed op aan het letten om dit te verbeteren.
+
+**Eind reflectie **
+
 
