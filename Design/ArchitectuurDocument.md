@@ -161,12 +161,27 @@ Enkele fouten gecorrigeerd in deze
 
 ![image](https://user-images.githubusercontent.com/71487939/236819098-d74302b1-e0b3-419a-889e-d8707ec3e7d4.png)
 
+Hier heb ik nog verdere feedback op gekregen en hier is het resultaat van die feedback:
+
+![image](https://github.com/Frenske-tech/PortfolioInternship/assets/71487939/6b0b8ec9-3a39-4632-8039-a50abd775403)
+
 **Klasse diagram**
 
 ![image](https://user-images.githubusercontent.com/71487939/236819218-c0198da5-882f-4b2e-a09e-cce8759d93ea.png)
 
-**Na feedback heb ik mijn klasse diagram aangepast**
+Na feedback heb ik mijn klasse diagram aangepast
 
 ![image](https://user-images.githubusercontent.com/71487939/236819247-d98fd509-b949-402e-bacf-268764cc5055.png)
+
+Ook de aanpassingen binnen het ERD doorgevoerd binnen het klasse diagram
+
+![image](https://github.com/Frenske-tech/PortfolioInternship/assets/71487939/115ef685-307e-40ad-9e31-5474f2e31107)
+
+**Git Flow Diagram**
+
+![image](https://github.com/Frenske-tech/PortfolioInternship/assets/71487939/5d8867c2-d5d5-46ed-a8ac-b2c54638f361)
+
+Hier heb ik feedback op gekregen en in overleg met mijn bedrijfsbegeleider  besloten dat er een nieuwe branch moet worden aangemaakt zodra de vertalingen doorgezete worden.
+![image](https://github.com/Frenske-tech/PortfolioInternship/assets/71487939/3db043dd-9bae-4a33-9257-5202cf4884d0)
 
 
