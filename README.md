@@ -34,3 +34,10 @@ Met gebruik van dot framework methodes heb ik de verschillende deelvragen beantw
 # Conclusie en advies
 
 # Persoonlijke reflectie
+
+**TussenTijdse reflectie**
+Ik had persoonlijk het gevoel dat mijn onderzoek was uitgelopen maar bij de terugkomdag is dat gevoel weggegaan omdat iedereen binnen de groep nog bezig was met het onderzoek, qua planning zat ik redelijk op schema al had ik gehoopt eerder te kunnen beginnen met mijn POC en de voorbereidingen daarvoor. Een van de verbeterpunten die ik ook met mijn bedrijfbegeleider besproken heb is communicatie, dit komt neer op niet vaak genoeg afstemmen met mijn bedrijfsbegeleider/stakeholder over de voortgang binnen het project. Dit is opgelost door iedere andere week een meeting ingepland te hebben, ook heb ik zodra ik dit nodig heb/had buiten deze meetings gevraagd voor een gesprek zodra ik iets afhad en feedback erop wilde, dit gaat nu al veel beter.
+
+Verder heb ik binnen het Hotflo systeem veel meegewerkt aan tickets specifiek in het bootstrap project waar door de migratie van een vorige bootstrap versie naar bootstrap 5 er op veel plekken styling aangepast moest worden, initieel begon ik met tickets binnen de vertalingen waar het simpel een tekst aanpassen was. Dit paste wel goed bij mijn opdracht en hielp me mijn weg te vinden in het systeem waardoor ik in de loop van mijn stage ook andere tickets op heb kunnen pakken onder andere gewone tickets die op de sprint werden toegevoegd in de vorm van bugs etc. hier ben ik natuurlijk best wel trots op en blij mee dat ik buiten mijn stageopdracht nog op een andere manier heb kunnen helpen en het is natuurlijk ook heel leerzaam geweest tot nu toe. 
+
+
