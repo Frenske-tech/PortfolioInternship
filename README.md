@@ -61,7 +61,11 @@ Tenslotte zijn er ook nog de technische en functionele refinements waar wordt ge
 
 **Individueel proces**
 
-Binnen mijn project heb ik ook de scrum methodiek toegepast, in een project van 1 alle bovenstaande processen niet gedaan. De eerste weken ben ik bezig geweest met het leren van Symfony en het werken aan mijn projectplan en voornamelijk de hoofdvraag en deelvragen compleet te maken. Voordat mijn projectplan definitief af was heb ik ook al enkele onderzoeken uitgevoerd hiervan zijn niet alle even waardevol gebleken specifiek voor het project tenminste niet ik heb er persoonlijk wel van geleerd.
+Binnen mijn project heb ik ook de scrum methodiek toegepast, ik heb een epic gekregen binnen het systeem van performation namelijk jira waar ik mijn user-stories en taken kwijt kon.
+Hierin staan de user stories gepaard aan de requirements ook is er prioriteit gekoppeld aan de user stories waarover ik met de stakeholder heb overlegd.
+![image](https://github.com/Frenske-tech/PortfolioInternship/assets/71487939/d27a2272-3ff1-44af-815c-9fe9c42ff3b3)
+
+De eerste weken ben ik bezig geweest met het leren van Symfony en het werken aan mijn projectplan en voornamelijk de hoofdvraag en deelvragen compleet te maken. Voordat mijn projectplan definitief af was heb ik ook al enkele onderzoeken uitgevoerd hiervan zijn niet alle even waardevol gebleken specifiek voor het project tenminste niet ik heb er persoonlijk wel van geleerd.
 
 Na het bedrijfsbezoek van mijn schoolbegeleider heb ik de laatste punten van feedback op mijn projectplan gekregen en naderhand verwerkt vanaf dit moment ben ik in de komende sprints bezig geweest met het onderzoek om dit uiteindelijk te kunnen gaan omtoveren tot een proof of concept/ prototype van de vertaalmodule waar er natuurlijk enkele requirements binnen te vinden zijn. En hier richting het einde van het project een adviesrapport over te schrijven voor het bedrijf om hoe verder te gaan met het product.
 
