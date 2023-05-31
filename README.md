@@ -6,6 +6,7 @@
 | 1.1 | 11/05/2023 | Francois Haan | Feedback schoolbegeleider verwerken | Klaar |
 | 1.2 | 16/05/2023 | Francois Haan | Toevoeging beschrijving van het proces | Klaar |
 | 1.3 | 17/05/2023 | Francois Haan | Verder werken aan bestand | Klaar |
+| 1.4 | 30/05/2023 | Francois Haan | Toevoegingen aan bestand | Klaar |
 
 Contents
 
@@ -61,19 +62,49 @@ Tenslotte zijn er ook nog de technische en functionele refinements waar wordt ge
 
 **Individueel proces**
 
-Binnen mijn project heb ik ook de scrum methodiek toegepast, ik heb een epic gekregen binnen het systeem van performation namelijk jira waar ik mijn user-stories en taken kwijt kon.
-Hierin staan de user stories gepaard aan de requirements ook is er prioriteit gekoppeld aan de user stories waarover ik met de stakeholder heb overlegd.
-![image](https://github.com/Frenske-tech/PortfolioInternship/assets/71487939/d27a2272-3ff1-44af-815c-9fe9c42ff3b3)
+Binnen mijn project heb ik ook de scrum methodiek toegepast, ik heb een epic gekregen binnen het systeem van Performation namelijk Jira waar ik mijn user-stories en taken kwijt kon. Hierin staan de user stories gepaard aan de requirements ook is er prioriteit gekoppeld aan de user stories waarover ik met de stakeholder heb overlegd.
+
+![](RackMultipart20230531-1-h5mz19_html_e481e6f54661110c.png)
+
+Binnen al deze user stories zijn er een aantal dingen te vinden namelijk:
+
+- Als weergave een korte beschrijving van de functionaliteit
+- Als beschrijving een user story
+- Labels van het bijbehorende systeem
+- Taken om de ticket af te ronden.
+- Prioriteit van de ticket
+- Aan welke gebruiker het gekoppeld is
+
+Elke story/ticket heeft de volgende workflow
+
+1. ticket staat open (open)
+2. ticket wordt aan gewerkt(in progress)
+3. ticket is klaar voor een code review(code review)
+4. ticket is klaar voor merge(done)
 
 De eerste weken ben ik bezig geweest met het leren van Symfony en het werken aan mijn projectplan en voornamelijk de hoofdvraag en deelvragen compleet te maken. Voordat mijn projectplan definitief af was heb ik ook al enkele onderzoeken uitgevoerd hiervan zijn niet alle even waardevol gebleken specifiek voor het project tenminste niet ik heb er persoonlijk wel van geleerd.
 
-Na het bedrijfsbezoek van mijn schoolbegeleider heb ik de laatste punten van feedback op mijn projectplan gekregen en naderhand verwerkt vanaf dit moment ben ik in de komende sprints bezig geweest met het onderzoek om dit uiteindelijk te kunnen gaan omtoveren tot een proof of concept/ prototype van de vertaalmodule waar er natuurlijk enkele requirements binnen te vinden zijn. En hier richting het einde van het project een adviesrapport over te schrijven voor het bedrijf om hoe verder te gaan met het product.
+Na het bedrijfsbezoek van mijn schoolbegeleider heb ik de laatste punten van feedback op mijn projectplan gekregen en naderhand verwerkt vanaf dit moment ben ik in de komende sprints bezig geweest met het onderzoek om dit uiteindelijk te kunnen gaan omzetten tot een proof of concept/ prototype van de vertaalmodule waar er requirements binnen te vinden zijn. En hier richting het einde van het project een adviesrapport over te schrijven voor het bedrijf om hoe verder te gaan met het product.
 
-Nadat ik klaar was met het onderzoek heb ik ook gewerkt aan de designdocumenten voordat ik de applicatie ging maken.
+Toen ik klaar was met het onderzoek en de prioriteiten etc vast te stellen heb ik ook het architectuur document opgezet zodat ik en eventuele mensen die verder gaan met het project weten hoe de applicatie in elkaar is gezet en waarom het zo in elkaar zit.
+
+En toen dit afgerond en goedgekeurd was door mijn stakeholder(bedrijfsbegeleider) ben ik begonnen met het maken van een prototype/POC waar ik de prioriteiten heb gevolgd van de requirements en ben begonnen met de meest belangrijke functionaliteiten in mijn geval waren dit het aanpassen van de vertalingen, het binnenhalen van de vertalingen, het terugsturen van de vertalingen, merge request aanmaken zodra de vertalingen terug zijn gestuurd en een nieuwe branch aanmaken zodra er changes worden gepusht. Ook heb ik code reviews ontvangen over mijn gemaakte code om deze te kunnen optimaliseren en fouten tot een minimum te kunnen beperken.
+
+In development heb ik een git lab repo opgezet waar al mijn code in staat en hier ook de reviews hebben kunnen plaatsvinden. En bij elke belangrijke functie een nieuwe Branch en zodra de klaar is met een merge request samen wordt gevoegd met de rest.
+
+Tenslotte zal ik een adviesrapport gaan opzetten waar ik adviezen geef over wat ik heb gemaakt en wat hier bijvoorbeeld aangepast of toegevoegd moet worden of wanneer er nog iets moet gebeuren in bijvoorbeeld het testen van de applicatie met unit tests etc.
+
+**Contact**
 
 Ik heb ook contact gehouden met mijn bedrijf begeleider door de stand-up in de ochtend waar ik aangaf waar ik mee bezig ben geweest en waar ik die dag mee bezig ga zijn. Wel was dit bij de tussentijdse beoordeling naar voren gekomen als verbeterpunt voor mij, hierdoor heb ik met mijn bedrijf begeleider elke andere week een meeting ingepland zodat ik duidelijk laat zien waar ik mee bezig ben en eventueel of ik hulp nodig zou hebben. En op momenten dat ik feedback wilde op iets of hulp nodig had heb ik ook een aparte meeting ingepland waar we dit hebben kunnen aanpakken en oplossen.
 
 Met mijn schoolbegeleider heb ik in de eerste paar weken een aantal meetings gehad met ook andere stagiaires erbij om het projectplan en wat hierin moest zitten te bespreken. Hierna heb ik hem nog eens gesproken bij het bedrijfsbezoek om de laatste feedback op mijn projectplan te ontvangen en te verwerken. Toen heeft er een tijdje gezeten tussen de meetings en heb ik pas weer een gesprek gehad bij de tussentijdse beoordeling waar we samen met andere stagiaires hebben gezeten en onze voortgang hebben besproken en eventuele problemen waar we tegen aan waren gelopen gedeeld. Sinds de tussentijdse beoordeling heb ik meer contact gehouden met mijn schoolbegeleider met name om mijn portfolio te bespreken en mijn algemene voortgang met zicht op de leerdoelen.
+
+**Na de tussentijdse beoordeling**
+
+Na de tussentijdse beoordeling heb ik nog een aantal gesprekken gehad met mijn schoolbegeleider voor het bespreken van mijn portfolio en hier aandachtspunten en verbeterpunten voor te krijgen. Een van de aandachtspunten was namelijk dat ondanks canvas anders aangeeft op verschillende plekken de laatste inleverversie van het portfolio alleen maar een zip mag zijn en dus geen GitHub repo. En dat er een voorkeur was om alle onderzoeken in een document te hebben, dit heb ik dan ook gedaan ik vind het zelf hierdoor wel niet overzichtelijk dit heb ik ook gedaan voor het analysedocument en het architectuurdocument.
+
+Met mijn bedrijfsbegeleider heb ik meer contact gehad sinds de tussentijdse beoordeling in de vorm van een gesprek elke andere week en dagelijks een update over hoe het ervoor staat en waar ik die dag mee bezig ga zijn. Richting het einde van de stage hebben we elke week een gesprek gehouden waar ik een op een met mijn bedrijfsbegeleider(stakeholder) laat weten hoe alles ervoor staat en waar ik sta binnen de planning etc. meestal waren deze gesprekken nuttig voor de voortgang te communiceren en ook de verwachtingen van de stakeholder beter te kunnen pijlen.
 
 Al mijn communicatie met beide mijn bedrijfsbegeleider en schoolbegeleider is met name via teams, email en mondeling gebeurd.
 
@@ -116,3 +147,13 @@ Verder heb ik binnen het Hotflo systeem veel meegewerkt aan tickets specifiek in
 Wel iets waar ik persoonlijk aan heb moeten werken/moet werken is dat ik taken die ik niet zo graag doe als andere te vaak doe uitstellen. Bij mij kwam dit vooral voor in de vorm van de tickets waar ik binnen het systeem aan mee heb gewerkt en vaak mijn stageopdracht taken links heb laten liggen. Dit moet in de toekomst meer vanuit mijzelf komen.
 
 _Eind reflectie_
+
+Terugkijkend op mijn stageperiode ben ik blij met hoe ik heb kunnen meedraaien binnen het team met de tickets en de scrum methodiek en alles wat er eigenlijk bij hoort om mee te draaien binnen een scrum team, ik heb veel geleerd van de meetings die ik heb bijgewoond van retrospectives, stand-ups, technical en functional refinements, sprint poker hoe de tickets ingeschat worden en de sprint planning hoe alles ingeschat en ingepland wordt.
+
+Over het algemeen heb ik veel geleerd over het werken binnen een groter bedrijf waar ik hiervoor alleen nog maar ervaring had met kleine bedrijven. Ik ben ook blij met mijn functioneren hierbinnen al zijn er nog altijd ook verbeterpunten die ik bij mezelf heb opgemerkt vanuit mijn stagebegeleider heb ik hierover geen klachten gekregen. Maar ik gaf specifieke als het over mijn voortgang ging bij de stageopdracht vaak weinig informatie hierover en naderhand gezien had ik hier meer over moeten vertellen.
+
+Binnen mijn stageopdracht had ik wel voornamelijk in het begin meer moeten communiceren met mijn bedrijfsbegeleider(stakeholder) over de voortgang en waar ik mee bezig was, bij de tussentijdse beoordeling was dit ook al een verbeterpunt genoemd en dit heb ik opgelost door iedere andere week een meeting in te plannen waar ik mijn voortgang deel en waar ik tegen aan was gelopen in die tijd als ik in de tussentijd problemen ergens mee had kon ik dit natuurlijk eerder aangeven/vragen. Richting het einde is dit dus aanzienlijk beter geworden en was er ook veel meer communicatie tussen ons en rond gaf ik ook specifieker aan binnen de stand-ups waar ik die dag mee bezig ging zijn waardoor het niet alleen duidelijk was voor mijn bedrijfsbegeleider maar ook voor de rest van het scrum team.
+
+Ook vind ik dat ik met name in het begin van de stage veel te weinig initiatief had genomen ten opzichte van de stage opdracht dit is ook beter geworden hoe langer ik hier mee heb gelopen maar hier was vooral in het begin veel ruimte voor verbetering. Maar richting het einde/ na de tussentijdse beoordeling ben ik hier veel meer op gaan letten met name bij het plannen van meetings en vragen voor dingen zodra ik ze nodig heb zoals een epic voor mijn user stories en een git repository etc. maar hier moet ik zeker nog altijd in verbeteren.
+
+Wel het meedraaien binnen het scrum team met de tickets waaraan ik heb meegeholpen heb ik complimenten over gekregen en was ik zelf ook blij met hoe ik hier na een korte inwerkperiode zonder veel moeite in mee heb kunnen draaien.
